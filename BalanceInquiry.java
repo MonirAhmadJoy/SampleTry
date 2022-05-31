@@ -25,4 +25,4 @@ public BalanceInquiry( int userAccountNumber, Screen atmScreen, BankDatabase atm
     screen.displayDollarAmount( totalBalance );
     screen.displayMessageLine( "" );
  } 
-}
+}hu
